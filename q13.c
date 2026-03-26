@@ -54,6 +54,6 @@ int main() {
 
     double maxValue = fractionalKnapsack(arr, n, capacity);
     printf("Maximum value that can be obtained: %.2lf\n", maxValue);
-
+    printf("Suhana Dala Magar, 46");
     return 0;
 }
