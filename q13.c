@@ -1,3 +1,4 @@
+// WAP to perform fractional knapsack problem using greedy approach.
 #include <stdio.h>
 #include <stdlib.h>
 
